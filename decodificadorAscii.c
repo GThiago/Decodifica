@@ -29,5 +29,5 @@ int main(){
 
 	printf("\n");
 	return 0;
-}//shellter{leˍe3e'�ocode}
+}
 
