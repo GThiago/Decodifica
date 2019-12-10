@@ -5,8 +5,7 @@
 int main(){
 
 	char aux[1],deco[]= "115104101108108116101114123108101971141101051101039510111099111100101125";
-	int y,x,z,c;
-	int tam = strlen(deco), a,b,res;
+	int tam = strlen(deco), a,b,c,x,y,z,res;
 	for (x = 0; x<tam;x+=3){
 		y = x + 1;
 		z = x + 2;
